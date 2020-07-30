@@ -1,0 +1,4 @@
+# mdOnlineUrlToLocalPicture
+exe包里面是直接可用的执行程序
+linetoloacal是源码
+使用场合：从网站上复制粘贴内容到typora时，图片是网络URL连接，随时可能失效。这个程序就是将远程的连接变为本地的。
